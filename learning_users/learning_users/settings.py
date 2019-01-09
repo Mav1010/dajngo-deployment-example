@@ -28,7 +28,7 @@ SECRET_KEY = 'vdoi$x$&88tm9!tfs#6bh5&)sn*)_b^sc*g^tpj$f1jw5gysr+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mav1010.pythonanywhere.com']
 
 
 # Application definition
